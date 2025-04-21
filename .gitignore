@@ -1,0 +1,21 @@
+PROJECT_2420_ME5311/*.nc
+# Ignore VS Code project settings
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter runtime files
+~$*.ipynb
+*.nbconvert.ipynb
+
+# Ignore Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore hidden system files (optional)
+.DS_Store
+Thumbs.db
+
